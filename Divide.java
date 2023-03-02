@@ -9,6 +9,6 @@ public class Divide {
 		
 		double C = A/B;
 		
-		System.out.println(C);
+		System.out.println(C);   
 	}
 }
